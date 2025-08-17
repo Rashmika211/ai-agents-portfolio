@@ -69,9 +69,4 @@ Hi, I'm Rashmika! As a Product Manager with a passion for user-centric solutions
 ---
 
 ## 👋 About Me
-
-I'm a Product Manager at TikTok working in the accessibility space to make technology more inclusive. With experience at Sprinklr leading B2B SaaS implementations worth $3M+ in annual revenue, I bring a unique perspective to AI agent development - focusing on user needs, data-driven decisions, and scalable solutions.
-
-My background spans product management, user research, and cross-functional collaboration with Fortune 500 clients. I'm passionate about building products that solve real problems, which is exactly what drives my AI agent development.
-
-Currently pursuing my Master's at Gies Business School (UIUC), I'm always exploring new ways to leverage AI for better user experiences an [Generating](#__caret)
+Linkedin
