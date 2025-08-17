@@ -69,4 +69,4 @@ Hi, I'm Rashmika! As a Product Manager with a passion for user-centric solutions
 ---
 
 ## 👋 About Me
-Linkedin
+Let's connect on [Linkedin](https://www.linkedin.com/in/rashmika-kolleri/)
